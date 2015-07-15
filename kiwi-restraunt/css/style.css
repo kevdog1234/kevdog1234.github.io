@@ -1,0 +1,31 @@
+::-webkit-input-placeholder {
+   color: #005000;
+}
+body , html {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #5dff5d;
+  color: #276927;
+  font-family: sans-serif;
+}
+input {
+  width: 100%;
+  height: 60px;
+  background-color: #00e600;
+  color:#005000;
+  font-size:30px;
+  padding-left:15px;
+  outline:none;
+  border: 0px solid black;
+}
+h1 {
+  font-size:5em;
+}
+
+
+ 
